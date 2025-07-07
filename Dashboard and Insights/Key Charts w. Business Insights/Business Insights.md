@@ -29,10 +29,10 @@
 
 ## Insights #2: Seasonal Consistency Demonstrates Advertiser-Friendly Stability
 
-COVID Year Included:
+**COVID Year Included**: 
 ![Seasonal Analysis (COVID Year Included](chart-screenshots/seasonal_analysis_chart_1.png)
 
-COVID Year Excluded:
+**COVID Year Excluded**: 
 ![Seasonal Analysis (COVID Year Excluded](chart-screenshots/seasonal_analysis_chart_2.png)
 
 ### What the Data Shows:
