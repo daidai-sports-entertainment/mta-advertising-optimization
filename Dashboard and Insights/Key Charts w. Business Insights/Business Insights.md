@@ -50,5 +50,5 @@
 3. Optimize Peak Month Campaigns:
   + Focus major campaign launches in October and November (highest traffic months excluding COVID year)
  
-### Implementation Example**
+### Implementation Example
 * For fitness brands like SoulCycle, this means instead of fighting competitors for crowded New Year's resolution advertising space, they should capture fitness-minded commuters months earlier during stable high-traffic periods like October and November, before January comes.
