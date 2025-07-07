@@ -31,7 +31,10 @@
 
 **COVID Year Excluded**: 
 
-<img src="chart-screenshots/seasonal_analysis_chart_excluded.png" alt="Seasonal Analysis (COVID Year Excluded" width="500">
+<div align="center">
+  <img src="chart-screenshots/seasonal_analysis_chart_excluded.png" alt="Seasonal Analysis (COVID Year Excluded)" width="500">
+  <p><em>Seasonal Analysis (COVID Year Excluded)</em></p>
+</div>
 
 ### What the Data Shows:
 
