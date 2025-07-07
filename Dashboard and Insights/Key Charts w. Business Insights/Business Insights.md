@@ -28,10 +28,9 @@
 * For fitness brands like Equinox, the message could pertain to "End your workday with energy, not exhaustion. Your evening workout awaits just around the corner."
 
 ## Insights #2: Seasonal Consistency Demonstrates Advertiser-Friendly Stability
-
+COVID Year Included:
 ![Seasonal Analysis (COVID Year Included](chart-screenshots/seasonal_analysis_chart_1.png)
-
-
+COVID Year Excluded
 ![Seasonal Analysis (COVID Year Excluded](chart-screenshots/seasonal_analysis_chart_2.png)
 
 ### What the Data Shows:
