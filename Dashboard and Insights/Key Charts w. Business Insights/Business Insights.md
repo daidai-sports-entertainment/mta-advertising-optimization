@@ -43,7 +43,6 @@
 5. Monthly analysis excluding 2020 COVID data reveals October and November as peak months, with September, May, and December maintaining strong consistent performance.
 
 ### Strategic Recommendation:
-
 1. Leverage Seasonal Stability to Secure Annual Contracts:
   + Invest in 77th Street for consistent audience delivery regardless of season
   + Lock in annual contracts to guarantee stable impression delivery across all campaign periods with confidence
