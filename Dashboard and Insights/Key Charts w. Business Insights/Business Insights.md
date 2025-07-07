@@ -27,3 +27,28 @@
 
 * For fitness brands like Equinox, the message could pertain to "End your workday with energy, not exhaustion. Your evening workout awaits just around the corner."
 
+## Insights #2: Seasonal Consistency Demonstrates Advertiser-Friendly Stability
+
+![Seasonal Analysis (COVID Year Included](chart-screenshots/seasonal_analysis_chart_1.png)
+
+
+![Seasonal Analysis (COVID Year Excluded](chart-screenshots/seasonal_analysis_chart_2.png)
+
+### What the Data Shows:
+
+1. Winter appears to outperform other seasons (29% entries, 27% exits), but this is primarily driven by COVID-year anomalies in 2020 data.
+2. When normalized for COVID impact, 77th Street demonstrates remarkable seasonal consistency across all periods.
+3. Seasonal distribution remains balanced (23-29% range) rather than showing extreme seasonal volatility typical of tourist or weather-dependent stations.
+4. The entry/exit ratio stays consistent across seasons, indicating stable commuter patterns year-round.
+5. Monthly analysis excluding 2020 COVID data reveals December and October as peak months, with January, May, and March maintaining strong consistent performance.
+
+### Strategic Recommendations:
+
+1. Leverage Seasonal Stability to Secure Annual Contracts:
+  a. Invest in 77th Street for consistent audience delivery regardless of season
+  b. Lock in annual contracts to guarantee stable impression delivery across all campaign periods with confidence
+2. Optimize Peak Month Campaigns:
+  a. Focus major campaign launches in December and October (highest traffic months excluding COVID year)
+ 
+### Implementation Example**
+* For fitness brands like SoulCycle, this means instead of fighting competitors for crowded New Year's resolution advertising space, they should capture fitness-minded commuters months earlier during stable high-traffic periods like October and December before January.
