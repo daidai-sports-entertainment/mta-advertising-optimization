@@ -1,6 +1,7 @@
 Data-driven Actionable Business Insights
 
 Insights #1: 77th Street Station is steadily recovering from COVID
+
 ![COVID Recovery Chart](chart-screenshots/covid_recovery_chart.png)
 
 **What the data shows**
