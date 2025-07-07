@@ -42,15 +42,23 @@
 4. The entry/exit ratio stays consistent across seasons, indicating stable commuter patterns year-round.
 5. Monthly analysis excluding 2020 COVID data reveals October and November as peak months, with September, May, and December maintaining strong consistent performance.
 
-<h3 style="color:rgb(10, 130, 10);">Strategic Recommendation:</h3>
+<h3 style="color: rgb(10, 130, 10);">Strategic Recommendation:</h3>
 
-<p style="color:rgb(10, 130, 10);">
-1. Leverage Seasonal Stability to Secure Annual Contracts:
-  + Invest in 77th Street for consistent audience delivery regardless of season
-  + Lock in annual contracts to guarantee stable impression delivery across all campaign periods with confidence
-3. Optimize Peak Month Campaigns:
-  + Focus major campaign launches in October and November (highest traffic months excluding COVID year)
-</p>
+<ol style="color: rgb(10, 130, 10);">
+  <li>
+    <strong>Leverage Seasonal Stability to Secure Annual Contracts:</strong>
+    <ul>
+      <li>Invest in 77th Street for consistent audience delivery year-round</li>
+      <li>Lock in annual contracts to ensure stable impressions across campaigns</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Optimize Peak Month Campaigns:</strong>
+    <ul>
+      <li>Focus major campaign launches in October and November (highest traffic months excluding COVID year)</li>
+    </ul>
+  </li>
+</ol>
 
 ### Implementation Example
 * For fitness brands like SoulCycle, this means instead of fighting competitors for crowded New Year's resolution advertising space, they should capture fitness-minded commuters months earlier during stable high-traffic periods like October and November, before January comes.
