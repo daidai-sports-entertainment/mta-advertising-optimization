@@ -31,7 +31,7 @@
 
 <div align="center">
   <img src="chart-screenshots/seasonal_analysis_chart_excluded.png" alt="Seasonal Analysis (COVID Year Excluded)" width="500">
-  <p><em>Seasonal Analysis (COVID Year Excluded)</em></p>
+  <p><em>Seasonal Analysis (COVID Year 2020 Excluded)</em></p>
 </div>
 
 ### What the Data Shows:
