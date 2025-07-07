@@ -2,8 +2,7 @@
 
 ## Insights #1: 77th Street Station is steadily recovering from COVID
 
-<img src="chart-screenshots/covid_recovery_chart.png" alt="COVID Recovery Chart" width="700">
-
+![COVID Recovery Chart](chart-screenshots/covid_recovery_chart.png)
 
 ### What the data shows**
 1. In 2020, COVID has negatively impacted the station and resulted in ~57% in total traffic.
@@ -31,7 +30,8 @@
 ## Insights #2: Seasonal Consistency Demonstrates Advertiser-Friendly Stability
 
 **COVID Year Excluded**: 
-![Seasonal Analysis (COVID Year Excluded](chart-screenshots/seasonal_analysis_chart_excluded.png)
+
+<img src="chart-screenshots/seasonal_analysis_chart_excluded.png" alt="Seasonal Analysis (COVID Year Excluded" width="500">
 
 ### What the Data Shows:
 
