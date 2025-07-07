@@ -9,13 +9,13 @@
 2. Post-COVID, the station has been steadily recovering and showed ~23% and ~15% annual increase in total traffic in 2021 and 2022, respectively.
 3. The exit vs entry ratio has increased in 2021 and 2022, implying 77th Street has become more of a departure hub, with passengers exiting here to reach final destinations (later findings support this trend)
 
-### Strategic Recommendation:
+### ℹ️ Strategic Recommendation:
 1. Capitalize on Market Recovery Momentum:
   + Invest now during growth phase. 77th Street shows 23% and 15% annual traffic increases, indicating expanding audience reach
   + Secure long-term contracts at current rates before MTA adjusts pricing to reflect recovery success
 2. Focus advertising content on departure-oriented messaging since 77th Street has become an exit hub. Targeting commuters transitioning to leisure activities such as dining, entertainment, shopping, and home-bound services.
 
-### Implementation Example
+### 💡 Implementation Example
 
 * For dating brands like Bumble, the message could pertain to "Your workday is done - time for that dinner date you've been planning. Discover great spots near you for tonight."
 
@@ -42,12 +42,12 @@
 4. The entry/exit ratio stays consistent across seasons, indicating stable commuter patterns year-round.
 5. Monthly analysis excluding 2020 COVID data reveals October and November as peak months, with September, May, and December maintaining strong consistent performance.
 
-### Strategic Recommendation:
+### ℹ️ Strategic Recommendation:
 1. Leverage Seasonal Stability to Secure Annual Contracts:
   + Invest in 77th Street for consistent audience delivery regardless of season
   + Lock in annual contracts to guarantee stable impression delivery across all campaign periods with confidence
 3. Optimize Peak Month Campaigns:
   + Focus major campaign launches in October and November (highest traffic months excluding COVID year)
 
-### Implementation Example
+### 💡 Implementation Example
 * For fitness brands like SoulCycle, this means instead of fighting competitors for crowded New Year's resolution advertising space, they should capture fitness-minded commuters months earlier during stable high-traffic periods like October and November, before January comes.
