@@ -30,15 +30,15 @@
 ## Insights #2: Seasonal Consistency Demonstrates Advertiser-Friendly Stability
 
 **COVID Year Excluded**: 
-![Seasonal Analysis (COVID Year Excluded](chart-screenshots/seasonal_analysis_chart_2.png)
+![Seasonal Analysis (COVID Year Excluded](chart-screenshots/seasonal_analysis_chart_excluded.png)
 
 ### What the Data Shows:
 
 1. Winter appears to outperform other seasons (29% entries, 27% exits), but this is primarily driven by COVID-year anomalies in 2020 data.
-2. When normalized for COVID impact, 77th Street demonstrates remarkable seasonal consistency across all periods.
+2. When normalized for COVID impact, 77th Street demonstrates remarkable seasonal consistency across all periods, with Fall and Spring moderately outperformed others.
 3. Seasonal distribution remains balanced (23-29% range) rather than showing extreme seasonal volatility typical of tourist or weather-dependent stations.
 4. The entry/exit ratio stays consistent across seasons, indicating stable commuter patterns year-round.
-5. Monthly analysis excluding 2020 COVID data reveals December and October as peak months, with January, May, and March maintaining strong consistent performance.
+5. Monthly analysis excluding 2020 COVID data reveals October and November as peak months, with September, May, and December maintaining strong consistent performance.
 
 ### Strategic Recommendations:
 
@@ -46,7 +46,7 @@
   a. Invest in 77th Street for consistent audience delivery regardless of season
   b. Lock in annual contracts to guarantee stable impression delivery across all campaign periods with confidence
 2. Optimize Peak Month Campaigns:
-  a. Focus major campaign launches in December and October (highest traffic months excluding COVID year)
+  a. Focus major campaign launches in October and November (highest traffic months excluding COVID year)
  
 ### Implementation Example**
-* For fitness brands like SoulCycle, this means instead of fighting competitors for crowded New Year's resolution advertising space, they should capture fitness-minded commuters months earlier during stable high-traffic periods like October and December before January.
+* For fitness brands like SoulCycle, this means instead of fighting competitors for crowded New Year's resolution advertising space, they should capture fitness-minded commuters months earlier during stable high-traffic periods like October and November, before January comes.
