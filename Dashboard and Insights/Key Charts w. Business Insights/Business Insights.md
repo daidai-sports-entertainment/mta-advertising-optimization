@@ -11,8 +11,8 @@
 
 ### Strategic Recommendation:**
 1. Capitalize on Market Recovery Momentum:
-  a. Invest now during growth phase. 77th Street shows 23% and 15% annual traffic increases, indicating expanding audience reach
-  b. Secure long-term contracts at current rates before MTA adjusts pricing to reflect recovery success
+  + Invest now during growth phase. 77th Street shows 23% and 15% annual traffic increases, indicating expanding audience reach
+  + Secure long-term contracts at current rates before MTA adjusts pricing to reflect recovery success
 2. Focus advertising content on departure-oriented messaging since 77th Street has become an exit hub. Targeting commuters transitioning to leisure activities such as dining, entertainment, shopping, and home-bound services.
 
 ### Implementation Example**
@@ -45,10 +45,10 @@
 ### Strategic Recommendations:
 
 1. Leverage Seasonal Stability to Secure Annual Contracts:
-  a. Invest in 77th Street for consistent audience delivery regardless of season
-  b. Lock in annual contracts to guarantee stable impression delivery across all campaign periods with confidence
-2. Optimize Peak Month Campaigns:
-  a. Focus major campaign launches in October and November (highest traffic months excluding COVID year)
+  + Invest in 77th Street for consistent audience delivery regardless of season
+  + Lock in annual contracts to guarantee stable impression delivery across all campaign periods with confidence
+3. Optimize Peak Month Campaigns:
+  + Focus major campaign launches in October and November (highest traffic months excluding COVID year)
  
 ### Implementation Example**
 * For fitness brands like SoulCycle, this means instead of fighting competitors for crowded New Year's resolution advertising space, they should capture fitness-minded commuters months earlier during stable high-traffic periods like October and November, before January comes.
