@@ -4,18 +4,18 @@
 
 ![COVID Recovery Chart](chart-screenshots/covid_recovery_chart.png)
 
-### What the data shows**
+### What the data shows
 1. In 2020, COVID has negatively impacted the station and resulted in ~57% in total traffic.
 2. Post-COVID, the station has been steadily recovering and showed ~23% and ~15% annual increase in total traffic in 2021 and 2022, respectively.
 3. The exit vs entry ratio has increased in 2021 and 2022, implying 77th Street has become more of a departure hub, with passengers exiting here to reach final destinations (later findings support this trend)
 
-### Strategic Recommendation:**
+### Strategic Recommendation:
 1. Capitalize on Market Recovery Momentum:
   + Invest now during growth phase. 77th Street shows 23% and 15% annual traffic increases, indicating expanding audience reach
   + Secure long-term contracts at current rates before MTA adjusts pricing to reflect recovery success
 2. Focus advertising content on departure-oriented messaging since 77th Street has become an exit hub. Targeting commuters transitioning to leisure activities such as dining, entertainment, shopping, and home-bound services.
 
-### Implementation Example**
+### Implementation Example
 
 * For dating brands like Bumble, the message could pertain to "Your workday is done - time for that dinner date you've been planning. Discover great spots near you for tonight."
 
