@@ -42,7 +42,7 @@
 4. The entry/exit ratio stays consistent across seasons, indicating stable commuter patterns year-round.
 5. Monthly analysis excluding 2020 COVID data reveals October and November as peak months, with September, May, and December maintaining strong consistent performance.
 
-<h3 style="color: rgb(10, 130, 10);">Strategic Recommendation:</h3>
+<code style="color: green;">Strategic Recommendation</code>
 
 <ol style="color: rgb(10, 130, 10);">
   <li>
