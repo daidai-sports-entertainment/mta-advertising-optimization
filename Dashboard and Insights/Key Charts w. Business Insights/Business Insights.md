@@ -9,7 +9,7 @@
 2. Post-COVID, the station has been steadily recovering and showed ~23% and ~15% annual increase in total traffic in 2021 and 2022, respectively.
 3. The exit vs entry ratio has increased in 2021 and 2022, implying 77th Street has become more of a departure hub, with passengers exiting here to reach final destinations (later findings support this trend)
 
-### ℹ️ Strategic Recommendation:
+### ℹ️ Strategic Recommendation
 1. Capitalize on Market Recovery Momentum:
   + Invest now during growth phase. 77th Street shows 23% and 15% annual traffic increases, indicating expanding audience reach
   + Secure long-term contracts at current rates before MTA adjusts pricing to reflect recovery success
@@ -34,15 +34,14 @@
   <p><em>Seasonal Analysis (COVID Year 2020 Excluded)</em></p>
 </div>
 
-### What the Data Shows:
-
+### What the Data Shows
 1. Winter appears to outperform other seasons (29% entries, 27% exits), but this is primarily driven by COVID-year anomalies in 2020 data.
 2. When normalized for COVID impact, 77th Street demonstrates remarkable seasonal consistency across all periods, with Fall and Spring moderately outperformed others.
 3. Seasonal distribution remains balanced (23-29% range) rather than showing extreme seasonal volatility typical of tourist or weather-dependent stations.
 4. The entry/exit ratio stays consistent across seasons, indicating stable commuter patterns year-round.
 5. Monthly analysis excluding 2020 COVID data reveals October and November as peak months, with September, May, and December maintaining strong consistent performance.
 
-### ℹ️ Strategic Recommendation:
+### ℹ️ Strategic Recommendation
 1. Leverage Seasonal Stability to Secure Annual Contracts:
   + Invest in 77th Street for consistent audience delivery regardless of season
   + Lock in annual contracts to guarantee stable impression delivery across all campaign periods with confidence
