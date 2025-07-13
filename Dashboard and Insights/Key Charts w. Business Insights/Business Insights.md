@@ -45,8 +45,34 @@
 1. Leverage Seasonal Stability to Secure Annual Contracts:
   + Invest in 77th Street for consistent audience delivery regardless of season
   + Lock in annual contracts to guarantee stable impression delivery across all campaign periods with confidence
-3. Optimize Peak Month Campaigns:
+2. Optimize Peak Month Campaigns:
   + Focus major campaign launches in October and November (highest traffic months excluding COVID year)
 
 ### 💡 Implementation Example
 * For fitness brands like SoulCycle, this means instead of fighting competitors for crowded New Year's resolution advertising space, they should capture fitness-minded commuters months earlier during stable high-traffic periods like October and November, before January comes.
+
+## Insights #3: Rush Hour Patterns Confirm Residential Commuter Destination
+
+![COVID Recovery Chart](chart-screenshots/covid_recovery_chart.png)
+
+### What the data shows
+1. 2019 Pre-COVID: Friday 5 PM dominated with 3.03 rush hour ratio, followed by Thursday and Wednesday 5 PM (2.96, 2.95 ratios)
+2. 2020 COVID Disruption: Completely altered patterns with Saturday 1 AM (2.88 ratio) and midday hours replacing traditional rush periods
+3. 2021-2022 Recovery: Rush hour patterns returned to pre-pandemic levels, with 2022 showing Friday 5 PM at 3.07 ratio - exceeding 2019 baseline
+4. Consistent Evening Focus: Across all non-COVID years, 5 PM (hour 17) dominates the top rush hour slots, confirming departure-heavy traffic flow
+
+### ℹ️ Strategic Recommendation
+1. Choose Evening-Optimized Content Strategy:
+  + Design ad content that works best during 5 PM peak hours when 3x more people will see your message
+  + Create "end-of-workday" messaging since most impressions happen during evening departure times
+2. Secure Long-Term Placement During Recovery:
+  + Lock in annual contracts now while 2022 performance exceeds pre-pandemic levels, with the confidence in sustained recovery
+  + Use complete market recovery data to justify increased investment in this location over competitors
+3. Target Predictable Professional Audience:
+  + Design campaigns for consistent weekday commuters rather than unpredictable tourist markets
+  + Create content for regular, high-income commuters with predictable spending patterns and consistent daily routines
+
+### 💡 Implementation Example
+* For food delivery brands like Grubhub, the message could pertain to "Long day at the office? Skip the cooking tonight - your favorite dinner is just a tap away before you get home."
+* For financial services brands like Fidelity, the message could pertain to "Reflecting on your future during your commute home? Take the next step toward your financial goals."
+* For entertainment brands like AMC Theatre, the message could pertain to "Your workday is done - make tonight special. Catch the 7 PM Guardians of the Galaxy vol.4 instead of heading straight home."
