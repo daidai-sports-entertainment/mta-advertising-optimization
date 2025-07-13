@@ -76,3 +76,31 @@
 * For food delivery brands like Grubhub, the message could pertain to "Long day at the office? Skip the cooking tonight - your favorite dinner is just a tap away before you get home."
 * For financial services brands like Fidelity, the message could pertain to "Reflecting on your future during your commute home? Take the next step toward your financial goals."
 * For entertainment brands like AMC Theatre, the message could pertain to "Your workday is done - make tonight special. Catch the 7 PM Guardians of the Galaxy vol.4 instead of heading straight home."
+
+## Insights #4: Concentrate Budget/Strategy on Highest-Traffic Turnstiles for Better ROI with 3x More Reach
+
+![COVID Recovery Chart](chart-screenshots/top_turnstile_focus.png)
+
+### What the data shows
+1. Northbound Premium Turnstiles: t-01-03-02 and t-01-00-00 dominate traffic volume with 1.2M+ total traffic, significantly outperforming all other locations
+2. Southbound Top Performers: t-00-00-00, t-00-00-01, t-00-00-07, and t-00-00-06 show strong consistent performance across all seasons
+3. Traffic Concentration: Top 6 turnstiles (3 Northbound, 3 Southbound) generate approximately 60-70% of total station traffic
+4. Directional Balance: 50.7% Northbound vs 49.3% Southbound traffic distribution shows balanced flow with slight northbound preference
+5. Consistent Seasonal Performance: Top-performing turnstiles maintain their rankings across all seasons, indicating reliable premium inventory
+
+### ℹ️ Strategic Recommendation
+1. Focus Budget on Premium Turnstile Locations:
+  + Concentrate advertising spend on identified top-performing turnstiles for maximum impression delivery
+  + Secure exclusive placement on t-01-03-02 and t-01-00-00 (Northbound) for highest traffic exposure
+2. Budget-Conscious Brand Strategy:
+  + For smaller brands with limited budgets, secure contracts exclusively on the top 2-3 highest-performing turnstiles rather than spreading across multiple locations
+  + Maximize ROI by investing in guaranteed high-traffic locations instead of diluting spend across average-performing turnstiles
+3. Premium Content Strategy for Top Turnstiles:
+  + Create special, eye-catching designs exclusively for highest-traffic turnstiles to capitalize on additional eyeballs
+  + Develop premium messaging or visuals for top-performing locations while using standard content for lower-traffic turnstiles
+    
+### 💡 Implementation Example
+* For dating apps like Bumble, the message on the 2 or 3 top turnstile could be something like "averagely, we make 2 out 11 matches convert to a date", and the design of those two turnstile should stand out visually (with additional heart icon maybe?)
+* For marketplace brands like eBay, the message on the top 1 or 2 turnstiles could be something like "looking for special collectives? there are more, only on Ebay", meanwhile having exceptional design of ads on these turnstile to represent "hidden gem"
+* For business services like Yelp, the message could be something like "8 out of 10 customers return after leaving a review on Yelp. Is your business on Yelp yet?", and make the design on these two turnstiles different
+
