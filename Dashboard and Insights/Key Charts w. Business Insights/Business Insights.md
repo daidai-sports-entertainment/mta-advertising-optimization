@@ -53,7 +53,7 @@
 
 ## Insights #3: Rush Hour Patterns Confirm Residential Commuter Destination
 
-![COVID Recovery Chart](chart-screenshots/covid_recovery_chart.png)
+![COVID Recovery Chart](chart-screenshots/rush_hour_patterns_chart.png)
 
 ### What the data shows
 1. 2019 Pre-COVID: Friday 5 PM dominated with 3.03 rush hour ratio, followed by Thursday and Wednesday 5 PM (2.96, 2.95 ratios)
