@@ -52,8 +52,9 @@
 * For fitness brands like SoulCycle, this means instead of fighting competitors for crowded New Year's resolution advertising space, they should capture fitness-minded commuters months earlier during stable high-traffic periods like October and November, before January comes.
 
 ## Insights #3: Rush Hour Patterns Confirm Residential Commuter Destination
+
 <div align="center">
-  <img src="chart-screenshots/rushhour_patterns_chart.png" alt="Seasonal Analysis (COVID Year Excluded)" width="500">
+  <img src="chart-screenshots/rushhour_patterns_chart.png" width="500">
 </div>
 
 ### What the data shows
