@@ -108,7 +108,7 @@
 
 ## Insights #5: Entry/Exit Ratios Reveal Turnstile Specialization Patterns
 
-![COVID Recovery Chart](chart-screenshots/top_turnstile_focus.png)
+![COVID Recovery Chart](chart-screenshots/turnstile_detail.png)
 
 ### What the data shows
 1. Individual Turnstile Variations: Despite overall exit-dominance, turnstiles t-00-00-07, t-00-00-01, t-00-00-06, and t-00-00-00 show entry-heavy patterns (ratios above 150-300)
@@ -124,7 +124,5 @@
   + Orient messaging toward exit side of departure-heavy turnstiles for maximum departing passenger exposure
     
 ### 💡 Implementation Example
-* For dating apps like Bumble, the message on the 2 or 3 top turnstile could be something like "averagely, we make 2 out 11 matches convert to a date", and the design of those two turnstile should stand out visually (with additional heart icon maybe?)
-* For marketplace brands like eBay, the message on the top 1 or 2 turnstiles could be something like "looking for special collectives? there are more, only on Ebay", meanwhile having exceptional design of ads on these turnstile to represent "hidden gem"
-* For business services like Yelp, the message could be something like "8 out of 10 customers return after leaving a review on Yelp. Is your business on Yelp yet?", and make the design on these two turnstiles different
+![COVID Recovery Chart](chart-screenshots/turnstile_detail.png)
 
