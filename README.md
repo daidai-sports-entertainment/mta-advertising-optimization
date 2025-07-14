@@ -2,7 +2,7 @@
 
 EXECUTIVE SUMMARY – Yunhao Dai
 
-![README Picture](Gemini_1.png)
+![README Picture](context_photo.png)
 
 # Overview
 
