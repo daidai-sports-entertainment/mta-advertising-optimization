@@ -2,7 +2,7 @@
 
 EXECUTIVE SUMMARY – Yunhao Dai
 
-![README Picture](context_photo.png)
+![README Picture](project_concept_photo.png)
 
 # Overview
 
