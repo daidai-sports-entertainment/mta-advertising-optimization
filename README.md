@@ -6,7 +6,7 @@ EXECUTIVE SUMMARY – Yunhao Dai
 
 # Overview
 
-We distilled four years of MTA counts into an interactive dashboard that surfaces rush-hour surges, post-COVID recovery, and gate-level entry/exit patterns—giving brands clear answers to when to buy, where to place, and what message to run at 77 th Street station.
+I distilled four years of MTA counts into an interactive dashboard that surfaces rush-hour surges, post-COVID recovery, and gate-level entry/exit patterns—giving brands clear answers to when to buy, where to place, and what message to run at 77 th Street station.
 
 # The Problem
 
