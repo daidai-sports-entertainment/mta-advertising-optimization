@@ -108,7 +108,7 @@
 
 ## Insights #5: Entry/Exit Ratios Reveal Turnstile Specialization Patterns
 
-![COVID Recovery Chart](chart-screenshots/turnstile_detail.png)
+![COVID Recovery Chart](chart-screenshots/turnstile_analysis.png)
 
 ### What the data shows
 1. Individual Turnstile Variations: Despite overall exit-dominance, turnstiles t-00-00-07, t-00-00-01, t-00-00-06, and t-00-00-00 show entry-heavy patterns (ratios above 150-300)
@@ -124,5 +124,8 @@
   + Orient messaging toward exit side of departure-heavy turnstiles for maximum departing passenger exposure
     
 ### 💡 Implementation Example
+
+### Brands should put ads toward entry side of high-entry turnstiles (and vice versa) for best visual exposure:
+
 ![COVID Recovery Chart](chart-screenshots/turnstile_detail.png)
 
