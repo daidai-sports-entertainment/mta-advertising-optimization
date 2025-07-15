@@ -16,7 +16,7 @@ Snapshot of the curated dataset for analytical work:
 
 - **What is the problem and how big is it?**
 
-Brands spend heavily on NYC subway turnstile ads—yet they’re flying blind. At 77th Street station alone, 6+ million annual entries flow through 15 turnstiles, but advertisers only get one overall rider count. There’s no visibility into which gates matter most, when commuter volume peaks, or what content commuters actually engage with. As a result, ad spend is often misallocated, visibility is low, and messaging goes unnoticed.
+In 2025 the MTA is projected to earn about $175 million from advertising, yet brands buying subway‑turnstile wraps have almost no data to prove those dollars work. At 77 Street station, for example, over 6 million annual entries flow through just 15 turnstiles, but advertisers receive a single, station‑level rider count. They have no visibility into which gates handle the most traffic, when volume peaks, or whether commuters notice the creative. This gap in turnstile‑level insight leads to misallocated budgets, limited accountability, and messaging that often goes unseen.
 
 - **Who is this problem affecting?**
 
