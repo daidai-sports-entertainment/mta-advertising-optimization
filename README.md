@@ -16,7 +16,7 @@ Snapshot of the curated dataset for analytical work:
 
 - **What is the problem and how big is it?**
 
-In 2025 the MTA is projected to earn about $175 million from advertising, yet brands buying subway‑turnstile wraps have almost no data to prove those dollars work. At 77 Street station, for example, over 6 million annual entries flow through just 15 turnstiles, but advertisers receive a single, station‑level rider count. They have no visibility into which gates handle the most traffic, when volume peaks, or whether commuters notice the creative. This gap in turnstile‑level insight leads to misallocated budgets, limited accountability, and messaging that often goes unseen.
+In 2025 the MTA is projected to earn about [\$175 million](https://www.amny.com/news/mta-nyc-subway-ads-and-money/) from advertising, yet brands buying subway‑turnstile wraps have almost no data to prove those dollars work. At 77 Street station, for example, over 6 million annual entries flow through just 15 turnstiles, but advertisers receive a single, station‑level rider count. They have no visibility into which gates handle the most traffic, when volume peaks, or whether commuters notice the creative. This gap in turnstile‑level insight leads to misallocated budgets, limited accountability, and messaging that often goes unseen.
 
 - **Who is this problem affecting?**
 
