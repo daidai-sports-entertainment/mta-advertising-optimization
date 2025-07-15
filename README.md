@@ -8,6 +8,10 @@ EXECUTIVE SUMMARY – Yunhao Dai
 
 I distilled four years of MTA counts into an interactive dashboard that surfaces rush-hour surges, post-COVID recovery, and gate-level entry/exit patterns—giving brands clear answers to when to buy, where to place, and what message to run at 77 th Street station.
 
+Snapshot of the curated dataset for analytical work: 
+
+![README Picture](datasets/data_snapshot.png)
+
 # The Problem
 
 - **What is the problem and how big is it?**
